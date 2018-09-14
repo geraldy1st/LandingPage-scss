@@ -1,0 +1,14 @@
+{
+  "name": "frontpage",
+  "version": "1.0.0",
+  "description": "Responsive Landing page",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Geraldy",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
